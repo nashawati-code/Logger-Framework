@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerHomework", "LoggerHomework.csproj", "{CEF6FFB1-7991-47BA-A1B8-9E3146549DCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerLibrary", "..\LoggerLibrary\LoggerLibrary.csproj", "{24E7C7CC-632B-46EF-949A-A87264277E03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Driver", "..\Driver\Driver.csproj", "{35CB343E-FB4F-4D48-9D4E-4C4E696563E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleLogger", "..\Logger253\ConsoleLogger.csproj", "{175FB083-F85E-445D-B29F-4669FD4D7C4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileLogger", "..\FileLogger\FileLogger.csproj", "{70438F81-8134-4613-B8EE-26194A4B2A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerCore", "..\AllLogger\LoggerCore.csproj", "{38C73518-26BF-4F78-BB3A-8FD372269079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEF6FFB1-7991-47BA-A1B8-9E3146549DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF6FFB1-7991-47BA-A1B8-9E3146549DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF6FFB1-7991-47BA-A1B8-9E3146549DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF6FFB1-7991-47BA-A1B8-9E3146549DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E7C7CC-632B-46EF-949A-A87264277E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E7C7CC-632B-46EF-949A-A87264277E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E7C7CC-632B-46EF-949A-A87264277E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E7C7CC-632B-46EF-949A-A87264277E03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35CB343E-FB4F-4D48-9D4E-4C4E696563E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CB343E-FB4F-4D48-9D4E-4C4E696563E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CB343E-FB4F-4D48-9D4E-4C4E696563E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CB343E-FB4F-4D48-9D4E-4C4E696563E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{175FB083-F85E-445D-B29F-4669FD4D7C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175FB083-F85E-445D-B29F-4669FD4D7C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175FB083-F85E-445D-B29F-4669FD4D7C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175FB083-F85E-445D-B29F-4669FD4D7C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70438F81-8134-4613-B8EE-26194A4B2A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70438F81-8134-4613-B8EE-26194A4B2A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70438F81-8134-4613-B8EE-26194A4B2A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70438F81-8134-4613-B8EE-26194A4B2A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38C73518-26BF-4F78-BB3A-8FD372269079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C73518-26BF-4F78-BB3A-8FD372269079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C73518-26BF-4F78-BB3A-8FD372269079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C73518-26BF-4F78-BB3A-8FD372269079}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF28118F-036B-4425-A5D9-9E1AA2038E41}
+	EndGlobalSection
+EndGlobal
