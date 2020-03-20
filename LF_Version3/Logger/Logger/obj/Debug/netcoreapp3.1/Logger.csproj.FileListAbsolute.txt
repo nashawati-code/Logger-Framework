@@ -1,0 +1,11 @@
+C:\Users\Nour\source\repos\Logger\Logger\bin\Debug\netcoreapp3.1\Logger.exe
+C:\Users\Nour\source\repos\Logger\Logger\bin\Debug\netcoreapp3.1\Logger.deps.json
+C:\Users\Nour\source\repos\Logger\Logger\bin\Debug\netcoreapp3.1\Logger.runtimeconfig.json
+C:\Users\Nour\source\repos\Logger\Logger\bin\Debug\netcoreapp3.1\Logger.runtimeconfig.dev.json
+C:\Users\Nour\source\repos\Logger\Logger\bin\Debug\netcoreapp3.1\Logger.dll
+C:\Users\Nour\source\repos\Logger\Logger\bin\Debug\netcoreapp3.1\Logger.pdb
+C:\Users\Nour\source\repos\Logger\Logger\obj\Debug\netcoreapp3.1\Logger.csprojAssemblyReference.cache
+C:\Users\Nour\source\repos\Logger\Logger\obj\Debug\netcoreapp3.1\Logger.AssemblyInfoInputs.cache
+C:\Users\Nour\source\repos\Logger\Logger\obj\Debug\netcoreapp3.1\Logger.AssemblyInfo.cs
+C:\Users\Nour\source\repos\Logger\Logger\obj\Debug\netcoreapp3.1\Logger.dll
+C:\Users\Nour\source\repos\Logger\Logger\obj\Debug\netcoreapp3.1\Logger.pdb

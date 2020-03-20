@@ -1,0 +1,20 @@
+3/17/2020 9:46:40 PM Hello World!3/17/2020 9:47:30 PM Hello World!3/17/2020 9:48:16 PM Hello World!3/17/2020 9:49:50 PM Hello World!3/17/2020 9:50:24 PM Hello World!3/17/2020 9:50:24 PM Program Started!3/17/2020 9:50:27 PM Program Ended!3/17/2020 10:06:33 PM Hello World!3/17/2020 10:06:33 PM Program Started!3/17/2020 10:06:36 PM Program Ended!3/17/2020 10:14:37 PM Hello World!3/17/2020 10:14:37 PM Program Started!3/17/2020 10:14:40 PM Program Ended!3/17/2020 10:15:52 PM Hello World!3/17/2020 10:15:52 PM Program Started!3/17/2020 10:15:55 PM Program Ended!3/17/2020 10:44:00 PM Hello World!3/17/2020 10:44:00 PM Program Started!3/17/2020 10:44:03 PM Program Ended!3/17/2020 11:16:34 PM Hello World!3/17/2020 11:16:34 PM Program Started!3/17/2020 11:16:37 PM Program Ended!3/19/2020 9:36:22 PM Hello World!3/19/2020 9:36:23 PM Program Started!3/19/2020 9:36:26 PM Program Ended!3/19/2020 9:38:00 PM: 3/19/2020 9:38:00 PM: Good afternoon file!
+
+3/19/2020 9:38:03 PM: 3/19/2020 9:38:03 PM: Good afternoon file!
+
+3/19/2020 9:44:36 PM: 3/19/2020 9:44:36 PM: Good afternoon file!
+
+3/19/2020 9:44:39 PM: 3/19/2020 9:44:39 PM: Good afternoon file!
+
+3/19/2020 9:54:12 PM: 3/19/2020 9:54:12 PM: Hello! This message was sent via Visual Studio! Slack program started!
+
+3/19/2020 9:54:15 PM: 3/19/2020 9:54:15 PM: Bye! Slack program ended!
+
+3/19/2020 9:59:56 PM: 3/19/2020 9:59:56 PM: Hello! Slack program started!
+
+3/19/2020 9:59:59 PM: 3/19/2020 9:59:59 PM: Bye! Slack program ended!
+
+3/19/2020 10:02:40 PM: 3/19/2020 10:02:40 PM: Hello! Slack program started!
+
+3/19/2020 10:02:48 PM: 3/19/2020 10:02:48 PM: Bye! Slack program ended!
+
