@@ -4,7 +4,7 @@
 
 > More updates will be done (this is for a class).
 
-:link: [Logger Version 1](https://github.com/aya-nashawati/Logger-Framework/tree/master/LF_Version1) 
+##[Logger Version 1](https://github.com/aya-nashawati/Logger-Framework/tree/master/LF_Version1) 
 
 	🢂 Logger can output to console.
 
