@@ -6,13 +6,13 @@
 
 ## [Logger Version 1](https://github.com/aya-nashawati/Logger-Framework/tree/master/LF_Version1) 
 
-	🢂 Logger can output to console.
-	
 - [x] Inline Logging (The Need for Reusability)
 - [x] Log Method (Abstraction Through Methods)
 - [x] Logger Class (Abstraction Through Classes)
 - [x] Logger Library (Separation of Concerns)
-
+	
+		🢂 Logger can output to console.
+	
 ## [Logger Version 2](https://github.com/aya-nashawati/Logger-Framework/tree/master/LF_Version2) 
 
 	🢂 Logger can output to console, text or both.
