@@ -8,10 +8,10 @@
 
 	🢂 Logger can output to console.
 	
-	- [x] Inline Logging (The Need for Reusability)
-	- [x] Log Method (Abstraction Through Methods)
-	- [x] Logger Class (Abstraction Through Classes)
-	- [x] Logger Library (Separation of Concerns)
+- [x] Inline Logging (The Need for Reusability)
+- [x] Log Method (Abstraction Through Methods)
+- [x] Logger Class (Abstraction Through Classes)
+- [x] Logger Library (Separation of Concerns)
 
 ## [Logger Version 2](https://github.com/aya-nashawati/Logger-Framework/tree/master/LF_Version2) 
 
